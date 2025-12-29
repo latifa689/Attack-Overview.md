@@ -1,6 +1,5 @@
 Attacks and Defence Architecture
 
-```</"img src="attack.png/attack.png"width="600>
 ```javascript
 
 [ External Attacker ]  ----------- [ Firewell ] --------- [ Internet ] ------ [ Secure VPN Channel  ]
