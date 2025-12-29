@@ -1,6 +1,9 @@
 Attacks and Defence Architecture
 
- <img align='right' src="attack.png" width="500">
+<"div align='right'> img align='right' src="attack.png" width="500">p<
+The attack and defense architecture illustrates a<b>**layered security model**</b> designed to minimize exposure and control access points.<div/>
+
+
 
 
 ## 🛡️ Attack and Defense Architecture
