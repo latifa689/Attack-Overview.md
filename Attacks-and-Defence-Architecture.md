@@ -2,6 +2,9 @@ Attacks and Defence Architecture
 
  <img align='right' src="attack.png" width="500">
 
+The attack and defense architecture illustrates a **layered security model** designed to minimize exposure and control access points.
+
+
 
 ## 🛡️ Attack and Defense Architecture
 
