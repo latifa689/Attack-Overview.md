@@ -1,6 +1,6 @@
 Attacks and Defence Architecture
 
-...javascript
+```javascript
 
 [ External Attacker ]  ----------- [ Firewell ] --------- [ Internet ] ------ [ Secure VPN Channel  ]
                                        :
