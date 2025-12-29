@@ -1,6 +1,7 @@
 Attacks and Defence Architecture
 
-[ External Attacker  ----------- [ Firewell ] --------- Internet ------ Secure VPN Channel  ]
+javascript box
+[ External Attacker ]  ----------- [ Firewell ] --------- [ Internet ] ------ [ Secure VPN Channel  ]
                             
                             [  Management VLAN   ]
                                  ----->   Management Traffic Only
