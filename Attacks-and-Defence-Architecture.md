@@ -1,7 +1,9 @@
 External Attacker  ----------- [ Firewell ] --------- Internet ------ Secure VPN Channel
-                              Management VLAN
+                            
+                            [  Management VLAN   ]
                                             Management Traffic Only
-                              Admin Jumpbox
+                           
+                           [   Admin Jumpbox  ]
                                       secure admine access
                                       
       Internet Network               <---------->                  User Network
